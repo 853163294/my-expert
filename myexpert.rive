@@ -1,0 +1,175 @@
+! version = 2.0
+
+// Substitutions
+! sub i'm     = i am
+! sub i'd     = i would
+! sub i've    = i have
+! sub i'll    = i will
+! sub don't   = do not
+! sub isn't   = is not
+! sub you'd   = you would
+! sub you're  = you are
+! sub you've  = you have
+! sub you'll  = you will
+! sub what's  = what is
+! sub whats   = what is
+! sub what're = what are
+! sub what've = what have
+! sub what'll = what will
+! sub who's   = who is
+
++ hello
+- Hello! I am an expert on Dream of the Red Chamber (Hongloumeng), the pinnacle of Chinese classical literature. I can answer any questions you have about this masterpiece.
+
++ hi
+- Hi there! Ask me anything about Dream of the Red Chamber.
+
++ greetings
+- Greetings! How may I assist you with Dream of the Red Chamber today?
+
++ my name is *
+- <set name=<formal>>Nice to meet you, <get name>.
+
++ (what is my name|who am i)
+- You're <get name>, right?
+
++ what is dream of the red chamber
+- Dream of the Red Chamber is one of China's Four Great Classical Novels, written by Cao Xueqin during the Qing Dynasty. It depicts the rise and fall of four aristocratic families, Jia, Shi, Wang, and Xue, centered on the tragic love story between Jia Baoyu and Lin Daiyu, offering a panoramic view of feudal society.
+
++ * author *  
+- The first 80 chapters were written by Cao Xueqin, while the last 40 chapters are generally believed to have been completed by Gao E. Cao Xueqin came from an elite family that served in the Imperial Household Department, and his personal experience of familial decline deeply influenced the novel.
+
++ * main characters *
+- The principal characters include: \n
+  ^ Jia Baoyu: Rebellious young aristocrat, \n
+  ^ Lin Daiyu: Talented but melancholic orphan, \n
+  ^ Xue Baochai: Virtuous and poised noblewoman, \n
+  ^ Wang Xifeng: Astute family manager, \n
+  ^ Grandmother Jia: Matriarch of the Jia family
+
++ * jia baoyu
+- Jia Baoyu is the male protagonist, son of Jia Zheng and Lady Wang. He rejects conventional Confucian values, cherishes women's company, and shares a deep bond with Lin Daiyu. Born with a magical jade in his mouth, he is seen as the hope of the Jia family.
+
++ * lin daiyu
+- Lin Daiyu is one of the central female characters, Grandmother Jia's granddaughter. A poetic genius with acute sensitivity, she grows up in the Jia household after her parents' death. Her love for Baoyu ends tragically when she dies heartbroken on his wedding night to Baochai.
+
++ * xue baochai
+- Xue Baochai represents the ideal Confucian woman—composed, practical, and socially adept. Her golden locket and "Cold Fragrance Pill" are key symbols. Though she marries Baoyu, their union is unhappy, contrasting sharply with Daiyu's romanticism.
+
++ * miaoyu
+- miaoyu, a young Buddhist nun with a complex blend of spiritual austerity and worldly sensitivity, she is renowned for her exceptional beauty, profound knowledge of tea culture, and refined artistic taste—yet maintains a detached, even haughty demeanor to guard her purity amid the Jia family's decadence. 
+
++ * jia yingchun
+- Jia Yingchun, the second daughter of the Jia family, is often described as timid, passive, and lacking in vitality—earning her the nickname "Wooden Beauty". Unlike her sharp-witted sister Tanchun or artistic cousin Daiyu, Yingchun avoids conflict, often retreating into playing checkers to escape the chaos of the declining Jia household. 
+
++ * jia tanchun
+- Jia Tanchun, the third daughter of the Jia clan, is celebrated for her sharp intellect, decisive spirit, and pragmatic nature—earning her the nickname "Rose with Thorns". Unlike her timid sister Yingchun or ethereal cousin Daiyu, Tanchun exhibits remarkable leadership.
+
++ * wang xifeng
+- Wang Xifeng (also called Phoenix) is Jia Lian's wife and the formidable manager of the Jia household. Witty and ruthless, her famous line—"Too much cunning leads to a cunning end"—foreshadows her tragic downfall despite her brilliance.
+
++ * granny liu
+- Granny Liu, a rustic peasant woman, provides comic relief and a critique of aristocratic excess. Her visits to the Jia mansion highlight the stark contrast between rural poverty and urban opulence, exposing the family's decadence.
+
++ * tour to the grand view garden
+- Granny Liu's Tour to the Grand View Garden is a key episode. Granny Liu, a poor rural relative of the Jia family, visits the luxurious Grand View Garden at the invitation of Wang Xifeng. Her tour contrasts the opulence of the Jia household against her own humble, earthy background. Through her naive yet wise observations and humorous interactions with the Jia ladies, the episode satirizes the excesses of the aristocracy and foreshadows its eventual decline. It also highlights themes of social class disparity and the transient nature of wealth in the novel.
+
++ * themes *
+- Major themes include: \n
+  ^ The decline of feudal aristocracy \n
+  ^ The conflict between individual desire and societal expectations \n
+  ^ The illusory nature of worldly attachments (Buddhist/Daoist philosophy) \n
+  ^ The tragic beauty of youth and love
+
++ * twelve beauties
+- The twelve principal female characters are:
+  ^ Lin Daiyu \n
+  ^ Xue Baochai \n
+  ^ Jia Yuanchun \n
+  ^ Jia Tanchun \n
+  ^ Shi Xiangyun \n
+  ^ Miaoyu \n
+  ^ Jia Yingchun \n
+  ^ Jia Xichun \n
+  ^ Wang Xifeng \n
+  ^ Qiaojie \n
+  ^ Li Wan \n
+  ^ Qin Keqing \n
+
++ * key plots
+- Here are some iconic scenes: \n
+  ^ First Meeting of Baoyu and Daiyu \n
+  ^ Daiyu Buries the Flowers \n
+  ^ Granny Liu's Visit to the Garden \n
+  ^ Baoyu's Beating \n
+  ^ Empress Yuanchun's Homecoming \n
+  ^ Search of the Grand View Garden \n
+  ^ Daiyu Burns Her Manuscripts \n
+  ^ Baoyu Becomes a Monk \n
+  ^ Crab Poetry Competition \n
+  ^ Miaoyu's Tea Ceremony \n
+
++ * grand view garden
+- Built for the Imperial Consort Yuanchun's visit, this lavish garden later becomes home to the younger generation: \n
+  ^ Bamboo Lodge (Daiyu) \n
+  ^ Alpinia Park (Baochai) \n
+  ^ Happy Red Court (Baoyu) \n
+It symbolizes the fleeting beauty of youth.
+
++ * baoyu and daiyu love
+- Their bond—rooted in shared rebellion against tradition—is doomed by family politics. Daiyu's mythic role as a "tear-shedding fairy" (repaying a debt of tears) adds lyrical tragedy to their star-crossed romance.
+
++ why does daiyu bury flowers
+- Distressed by the sight of fallen blossoms, Daiyu composes Song of the Burial of Flowers (葬花吟), comparing the fleeting beauty of flowers to her own fragile existence. This scene symbolizes her sensitivity to impermanence and foreshadows her early death.
+
++ why did granny liu visit the rong mansion
+- Driven by poverty, Granny Liu seeks financial help from the Jias. Her humble demeanor and witty remarks amuse the family, leading to her being welcomed as an "entertainment guest" in subsequent visits.
+
++ * second visit *
+- Granny Liu's second visit to the Grand View Garden symbolizes the peak of the Jia family's prosperity. The elaborate feasts and activities she participates in, such as the *Crab Feast* and *Poetry Club*, highlight the family's opulence before their impending decline.
+
++ * poems in the novel
+- The poems in the novel are deeply intertwined with characters' personalities and fates. For example, Daiyu's verses are melancholic and introspective, while Baochai's are polished and conformist. These poems serve as subtle foreshadowing.
+
++ * jade
+- The jade that Baoyu is born with symbolizes his spiritual essence and connection to the divine. It also represents the constraints of his privileged status. Losing the jade foreshadows his descent into madness and eventual enlightenment.
+
++ * clothing
+- Clothing in the novel denotes social status and personality. For example, Wang Xifeng's flamboyant attire signals her authority, while Lin Daiyu's simple dresses reflect her humility and sensitivity. Colors and patterns also carry cultural meanings.
+
++ * role of servants
+- Servants like袭人,晴雯, and鸳鸯 are integral to the story, often mirroring or challenging the masters' actions. Their fates (e.g.,晴雯's unjust death) highlight the cruelty of feudal hierarchy.
+
++ * food *
+- Elaborate feasts in the novel, such as the *Crab Feast*, showcase the Jia family's extravagance and refinement. The detailed descriptions of dishes, utensils, and etiquette reflect the hierarchical structure of Qing Dynasty society.
+
++ * poetry club
+- The Hai Tang Poetry Club (海棠诗社) is formed by the young ladies and Baoyu to compose poetry and enjoy literary pursuits. It represents a brief idyllic moment in the otherwise turbulent lives of the characters, emphasizing their artistic talents.
+
++ * buddhist *
+- The novel incorporates Buddhist ideas of impermanence and Taoist concepts of detachment. Characters like甄士隐 and柳湘莲 embrace spiritual paths after experiencing worldly suffering, emphasizing the transience of material wealth.
+
++ how to read *
+- Suggestions: \n
+  ^ 1. First read for plot, then analyze details \n
+  ^ 2. Use a character relationship chart \n
+  ^ 3. Consult annotations for archaic terms \n
+  ^ 4. Study poetic symbolism \n
+  ^ 5. Compare scholarly interpretations \n
+
++ * compare to other chinese classics
+- Versus China's other three great novels:
+  ^ Romance of the Three Kingdoms: Historical narrative
+  ^ Water Margin: Heroic outlaw tales
+  ^ Journey to the West: Mythological adventure
+Dream of the Red Chamber surpasses them in psychological realism and artistic subtlety.
+
++ * influenced chinese culture
+- Dream of the Red Chamber has inspired countless adaptations, including the 1987 TV series and opera versions. Its themes continue to resonate in modern discussions about gender, family, and societal pressure.
+
++ * literary significance *
+- As China's greatest literary novel, it critiques feudalism, explores human nature, and documents 18th-century Chinese society through the rise and fall of the Jia clan. Its psychological depth, poetic prose, and complex characters set it apart.
+
++ *
+- I'm not sure I understand your question about Dream of the Red Chamber. Could you try rephrasing?
+- As an expert on Dream of the Red Chamber, I didn't quite catch that. Maybe ask about the characters, plot or themes?
